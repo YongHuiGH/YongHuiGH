@@ -3,7 +3,7 @@
 
 - 📷 Assignment 1- [Poster for Industry Talk 1](https://github.com/YongHuiGH/YongHuiGH.github.io/blob/main/assignment_1.jpg)
 
-- 🎞️ Assignment 2- [Video on visit to UTMDigital](https://github.com/YongHuiGH/YongHuiGH.github.io/raw/main/Assignment%202%20Video.mp4)
+- 🎞️ Assignment 2- [Video on visit to UTMDigital](https://github.com/YongHuiGH/YongHuiGH.github.io/raw/main/assignment_2.mp4)
 
 - 📜 Assignment 3- [Report for Industry Talk 3](https://github.com/YongHuiGH/YongHuiGH.github.io/blob/main/assignment_3.pdf)
   
