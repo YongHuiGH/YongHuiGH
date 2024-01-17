@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">A Year 1 Software Engineering student in UTM.</h3>
 
-- 📷 Assignment 1- [Poster for Industry Talk 1](https://github.com/YongHuiGH/YongHuiGH.github.io/blob/main/ASS_1_POSTER.jpg)
+- 📷 Assignment 1- [Poster for Industry Talk 1](https://github.com/YongHuiGH/YongHuiGH.github.io/blob/main/assignment_1.jpg)
 
 - 🎞️ Assignment 2- [Video on visit to UTMDigital](https://github.com/YongHuiGH/YongHuiGH.github.io/raw/main/Assignment%202%20Video.mp4)
 
