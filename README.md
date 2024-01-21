@@ -5,9 +5,9 @@
 
 - 🎞️ Assignment 2- [Video on visit to UTMDigital](https://github.com/YongHuiGH/YongHuiGH.github.io/raw/main/assignment_2.mp4)
 
-- 📜 Assignment 3- [Report for Industry Talk 3](https://github.com/YongHuiGH/YongHuiGH.github.io/blob/main/assignment_3.pdf)
+- 📜 Assignment 3- [Report for Industry Talk 2](https://github.com/YongHuiGH/YongHuiGH.github.io/blob/main/assignment_3.pdf)
   
-- 📖 Assignment 4- [newsletter for Industry Talk 4](https://github.com/YongHuiGH/YongHuiGH.github.io/blob/main/assignment_4.pdf)
+- 📖 Assignment 4- [newsletter for Industry Talk 3](https://github.com/YongHuiGH/YongHuiGH.github.io/blob/main/assignment_4.pdf)
   
   
 - 💻 PC Assemble
